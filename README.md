@@ -22,4 +22,4 @@ I'm passionate about delivering high-quality software through effective testing 
 Always learning, exploring, and improving software quality.
 
 ### 🤝 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/EshwarLanka
