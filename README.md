@@ -20,3 +20,9 @@ I help teams ship reliable software through solid test strategy, automation, and
 
 ### 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/eshwar-lanka-12962962/
+
+### 📊 GitHub Stats
+
+![Eshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EshwarLanka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EshwarLanka&theme=tokyonight)
