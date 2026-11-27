@@ -23,6 +23,6 @@ I help teams ship reliable software through solid test strategy, automation, and
 
 ### 📊 GitHub Stats
 
-![Eshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EshwarLanka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Eshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EshwarLanka&show_icons=true&theme=tokyonight&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EshwarLanka&theme=tokyonight)
