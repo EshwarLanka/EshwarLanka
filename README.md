@@ -17,3 +17,6 @@ I help teams ship reliable software through solid test strategy, automation, and
 - **Reporting:** Allure, Extent Reports
 - **Data and observability:** SQL (MySQL), Datadog, OpenSearch
 - **Workflow:** Git, GitHub, Jira, CI/CD, Agile and Scrum
+
+### 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/eshwar-lanka-12962962/
